@@ -18,8 +18,8 @@ require('html/header.php');
 // **********	DECLARE VARIABLES  ********** //
 // ***************************************** //
  
-$username = 'bola';
-$password = 'bola';
+$username = 'admin';
+$password = 'admin';
  
 $random1 = 'jean_sec_key';
 $random2 = 'randy_key2';
